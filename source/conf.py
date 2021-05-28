@@ -18,8 +18,8 @@ import sphinx_rtd_theme
 
 year = datetime.datetime.now().year
 
-version = '4.0'
-release = '4.0.0.0'
+version = '3.0'
+release = '3.0.7.0'
 
 
 # -- Project information -----------------------------------------------------
